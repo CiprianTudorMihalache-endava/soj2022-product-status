@@ -1,0 +1,5 @@
+deleteOldReport: true
+products:
+  - a
+  - b
+  - c

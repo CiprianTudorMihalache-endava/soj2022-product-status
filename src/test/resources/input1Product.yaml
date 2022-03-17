@@ -1,0 +1,4 @@
+reportFileName: report
+deleteOldReport: true
+products:
+  - a
